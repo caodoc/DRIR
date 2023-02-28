@@ -10,6 +10,7 @@
 |<a href="https://github.com/caodoc/DRIR"> DRIR </a>|Introductions of all my Github repositories|Active|<img src="https://img.shields.io/github/last-commit/caodoc/DRIR?style=for-the-badge">|
 |<a href="https://github.com/caodoc/Guess-What-This-Is"> Guess what this is </a>|A mystery project. Hint: use on Valentine|Archived|<img src="https://img.shields.io/github/last-commit/caodoc/Guess-What-This-Is?style=for-the-badge">|
 |<a href="https://github.com/caodoc/KnowWhat"> Know What? </a>|A fun fun project. Don't know about it? Then find it on my <a href="https://caodoc.github.io"> website </a>|Active|<img src="https://img.shields.io/github/last-commit/caodoc/KnowWhat?style=for-the-badge">|
+|<a href="https://github.com/caodoc/LightTab"> LightTab </a>|A simple repository for your newTab </a>|Active|<img src="https://img.shields.io/github/last-commit/caodoc/LightTab?style=for-the-badge">|
 |<a href="https://github.com/caodoc/PIANS"> PIANS </a>|Python codes of school's homeworks and other projects|Active|<img src="https://img.shields.io/github/last-commit/caodoc/PIANS?style=for-the-badge">|
 |<a href="https://github.com/caodoc/portfolio"> portfolio </a>|Portfolio for my website|Archived|<img src="https://img.shields.io/github/last-commit/caodoc/portfolio?style=for-the-badge">|
 |<a href="https://github.com/caodoc/rick_roll"> rick_roll </a>|Rick roll your friends, why not?|Active|<img src="https://img.shields.io/github/last-commit/caodoc/rick_roll?style=for-the-badge">|
