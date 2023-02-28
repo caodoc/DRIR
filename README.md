@@ -4,7 +4,7 @@
 | ---------- | ----- | ------ | ----------- |
 |<a href="https://github.com/caodoc/blog"> Blog </a>|Blog for my <a href="https://caodoc.github.io"> website </a>|Active|<img src="https://img.shields.io/github/last-commit/caodoc/blog?style=for-the-badge">|
 |<a href="https://github.com/caodoc/caodoc"> caodoc </a>|My user stat on github, can be found on my Github profile|Active|<img src="https://img.shields.io/github/last-commit/caodoc/caodoc?style=for-the-badge">|
-|<a href="https://github.com/caodoc/caodoc.github.io"> caodoc.github.io </a>|My <a href="https://caodoc.github.io"> website </a>|Active|<img src="https://img.shields.io/github/last-commit/caodoc/blog?style=for-the-badge">|
+|<a href="https://github.com/caodoc/caodoc.github.io"> caodoc.github.io </a>|My <a href="https://caodoc.github.io"> website </a>|Active|<img src="https://img.shields.io/github/last-commit/caodoc/caodoc.github.io?style=for-the-badge">|
 |<a href="https://github.com/caodoc/CIANS"> CIANS </a>|C++ solutions of CP I have solved on Codeforces and other school's homeworks|Active|<img src="https://img.shields.io/github/last-commit/caodoc/CIANS?style=for-the-badge">|
 |<a href="https://github.com/caodoc/Documents"> Documents </a>|My documents collection|Active|<img src="https://img.shields.io/github/last-commit/caodoc/Documents?style=for-the-badge">|
 |<a href="https://github.com/caodoc/DRIR"> DRIR </a>|Introductions of all my Github repositories|Active|<img src="https://img.shields.io/github/last-commit/caodoc/DRIR?style=for-the-badge">|
